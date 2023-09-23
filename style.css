@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #010000; /* Change the background color to greenish black */
+    color: #24b394; /* Change text color to a shade of green */
+}
+
+header {
+    text-align: center;
+    background-color: #020017; /* Darker background for the header */
+    color: white;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #0e0101; /* Darker background for the main content */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color:  #57dec0; /* Change h1 text color to green */
+}
+
+h2 {
+    color: #24b394; /* Change h2 text color to green */
+}
+
+p {
+    margin: 10px 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+article {
+    padding: 15px;
+    background-color: #0e0101; /* Darker background for articles */
+    border: 1px solid  #24b394; /* Green border */
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
